@@ -1,0 +1,8 @@
+title: my portfolio
+name: Mikala Governali
+email: mikalagovernali@gmail.com
+
+collections:
+design:
+output: true
+permalink: /:collection/:path/
